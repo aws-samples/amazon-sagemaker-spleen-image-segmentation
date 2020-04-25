@@ -1,4 +1,4 @@
-# Amazon Sagemaker para segmentación semántica de imagenes medicas
+# Amazon Sagemaker para segmentación semántica de imagenes médicas
 ## Tomografias computadas del baso
 
 © 2020 Amazon Web Services, Inc. y sus filiales. Todos los derechos reservados. Esta obra no puede ser reproducida o redistribuida, en su totalidad o en parte, sin el permiso previo por escrito de Amazon Web Services, Inc. Se prohíbe la copia comercial, préstamo o venta.
